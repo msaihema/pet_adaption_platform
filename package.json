@@ -1,0 +1,14 @@
+{
+  "name": "pet-love-platform",
+  "version": "1.0.0",
+  "description": "Pet Love - Full-stack Pet Adoption & Care Platform (English & Telugu)",
+  "scripts": {
+    "start": "node backend/server.js",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": ["pet-adoption", "pet-care", "telugu", "bilingual", "mern"],
+  "author": "Pet Love Platform Team",
+  "license": "ISC"
+}
